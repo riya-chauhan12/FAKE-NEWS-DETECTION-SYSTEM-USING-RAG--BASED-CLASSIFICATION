@@ -8,8 +8,8 @@ def main():
     # ADD YOUR API KEYS HERE
     # -----------------------------------------
     api_keys = {
-        "gnews": "b70e257b9679d6299b2b169240004cfc",
-        "newsapi": "90f06bdf01504ee782f631af24a46b93",
+        "gnews": "add-gnews-apikey",
+        "newsapi": "add-newsapi-apikey",
         # "bing": "YOUR_BING_KEY_HERE"   # Optional
     }
 
