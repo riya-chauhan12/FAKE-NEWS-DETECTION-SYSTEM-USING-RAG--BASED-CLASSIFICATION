@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+requests
+beautifulsoup4
+newspaper3k
+sentence-transformers
+torch
+tqdm
+lxml
