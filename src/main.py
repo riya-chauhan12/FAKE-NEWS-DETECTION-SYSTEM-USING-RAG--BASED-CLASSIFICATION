@@ -2,7 +2,7 @@
 from detector import HybridFakeNewsDetector
 
 def main():
-    print("\n=== HYBRID FAKE NEWS DETECTOR ===\n")
+    print("\n=== FAKE NEWS DETECTOR ===\n")
 
     # -----------------------------------------
     # ADD YOUR API KEYS HERE
